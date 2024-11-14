@@ -15,11 +15,11 @@ const ExposedSQLExample = () => {
 
   // These connection details would be visible in the browser
   const DB_CONFIG = {
-    host: "dpg-csqq33ij1k6c73c0vbbg-a",
-    database: "disc_demo",
-    user: "disc_demo_user",
+    host: "dpg-csr85njv2p9s739qvm20-a",
+    database: "disc_demo_db",
+    user: "disc_demo_db_user",
     // NEVER put credentials in frontend code!
-    password: "s2cYTyGqcwPOj4XB6eajC6z6hzJCc9Zp",
+    password: "ygANYHJveK6yx6ZuVHj7ms7Xt7D0eBrr",
   };
 
   const executeQuery = async () => {
